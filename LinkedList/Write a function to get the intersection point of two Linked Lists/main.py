@@ -86,3 +86,5 @@ if __name__ == '__main__':
     print("The node of intersection is ", getIntersectionNode(head1, head2))
 
     # The code is contributed by Ansh Gupta.
+    # Time Complexity: O(m+n)
+    # Space Complexity: O(1)
